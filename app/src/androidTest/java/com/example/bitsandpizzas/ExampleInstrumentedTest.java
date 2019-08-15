@@ -1,4 +1,4 @@
-package com.example.mainactivity;
+package com.example.bitsandpizzas;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
