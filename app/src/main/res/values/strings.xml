@@ -22,4 +22,7 @@
     <string name="pizza_tab">Pizzas</string>
     <string name="pasta_tab">Pasta</string>
     <string name="store_tab">Stores</string>
+    <string name="order_name_hint">Please enter your name</string>
+    <string name="order_details_hint">Please enter your order</string>
+    <string name="restaurant_image">Create Order</string>
 </resources>
